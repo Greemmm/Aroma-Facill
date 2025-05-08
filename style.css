@@ -177,9 +177,9 @@ header a:hover {
 .thumbnail .item .content .title{
     font-weight: 500;
 }
-.thumbnail .item .content .description{
-    font-weight: 300;
-    font-size: 1.3em;
+.thumbnail .item .content .des{
+    font-weight: 500;
+    font-size: 1.5em;
 }
 /* arrows */
 .arrows{
